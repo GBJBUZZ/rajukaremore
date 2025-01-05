@@ -102,10 +102,10 @@ export default function Footer() {
                 <p className="text-lg font-[600]">{t2("mail us")}</p>
               </div>
               <Link
-                href={"mailto:mlabhondekaroffice@gmail.com"}
+                href={"mailto:rajukaremore@gmail.com"}
                 className="ml-8"
               >
-                mlabhondekaroffice@gmail.com
+                rajukaremore@gmail.com
               </Link>
             </div>
             <br />
